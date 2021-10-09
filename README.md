@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### 安装：下载后请在terminal输入 npm i去安装node_modules,然后需要多开一个terminal 输入命令npm run json-sever,这是后端的server，然后第一个terminal输入 npm start，我们就可以看到了，我们现在又两个端口，这里的数据库是在mock文件夹下的data.json里。
